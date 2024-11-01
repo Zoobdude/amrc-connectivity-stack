@@ -20,7 +20,7 @@
   "type": "module",
   "dependencies": {
     "@amrc-factoryplus/rx-util": "^0.0.3",
-    "@amrc-factoryplus/service-api": "0.0.2-bmz.5",
+    "@amrc-factoryplus/service-api": "0.0.2-bmz.6",
     "@amrc-factoryplus/utilities": "2.0.0",
     "ajv": "^8.10.0",
     "ajv-formats": "^2.1.1",
